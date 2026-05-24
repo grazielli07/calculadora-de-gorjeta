@@ -164,6 +164,7 @@ main{
     text-transform: uppercase;
     font-size: 1.25rem;
     padding-block: 0.5rem;
+<<<<<<< HEAD
 }
 
 @media(min-width: 920px) {
@@ -183,4 +184,6 @@ main{
     .gorjeta div {
         grid-template-columns: 1fr 1fr 1fr;
     }
+=======
+>>>>>>> 479d7f41a49ede4f3178c0dc32db393ebe7d7d77
 }
